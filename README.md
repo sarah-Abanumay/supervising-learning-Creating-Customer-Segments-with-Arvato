@@ -4,7 +4,11 @@ Data is provided by Udacity , our Bertelsmann partners AZ Direct and Arvato Fina
  
  The following libraries are expected to be used in this project:
 NumPy
+
 pandas
+
 Sklearn / scikit-learn
+
 Matplotlib (for data visualization)
+
 Seaborn (for data visualization)
